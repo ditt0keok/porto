@@ -147,6 +147,21 @@ a {
 }
 
 
+@media (max-width: 768px) {
+  .band {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .band img {
+    width: 120px;
+  }
+
+  .keterangan_band {
+    width: 100%;
+  }
+}
+
 
 /* ================= SECTION ================= */
 .tengah{
